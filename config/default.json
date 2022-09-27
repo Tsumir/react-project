@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "jdbfiehbcjhsfh$654",
+  "mongoUri": "mongodb://antosha:1234@localhost:27017/?authMechanism=DEFAULT",
+  "baseUrl": "http://localhost:5000"
+}
